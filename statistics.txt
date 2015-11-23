@@ -1,0 +1,14 @@
+Equivalence classes capacity:
+dsym & n2r & onDiag : 840
+dsym & n2r & !onDiag : 32
+dsym & !n2r & onDiag : 401
+dsym & !n2r & !onDiag : 48
+!dsym & n2r & onDiag : 6130
+!dsym & n2r & !onDiag : 288
+!dsym & !n2r & onDiag : 2004
+!dsym & !n2r & !onDiag : 257
+
+Notation:
+dsym - diagonal symmetric
+n2r - not two same in a row
+onDiag - at least one on diagonal
